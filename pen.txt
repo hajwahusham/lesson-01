@@ -1,11 +1,3 @@
-- Penicillin was the first antibiotic, discovered in
- 1928 by Alexander Fleming
-- He noticed that some bacteria he had left in a
- Petri dish had been killed by the naturally occurring
- Penicillium mould
-- The penicillium mould produces a chemical to prevent 
-it being infected by certain types of bacteria
-- The chemical was isolated and named penicillin
-- Since the discovery of penicillin, methods have 
-been developed to produce it on a large scale, using
- an industrial fermenter
+Penicillin was the first antibiotic, discovered in 1928 by Alexander Fleming
+Penicillium mould produces a chemical to prevent it being infected by certain types of bacteria
+Since the discovery of penicillin, methods have been developed to produce it on a large scale, using an industrial fermenter
