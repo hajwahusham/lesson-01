@@ -6,9 +6,9 @@ counter = 0
 #reading from the file
 content = file.read()
 # splitting the content into lines & storing them in a list
-colList = content.split("\n")
-print(colList)
-for i in colList:
+coList = content.split("\n")
+print(coList)
+for i in coList:
     if i:
         counter += 1
 
